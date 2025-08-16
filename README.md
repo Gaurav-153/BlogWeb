@@ -29,12 +29,16 @@ cd nextjs-blog
 ```
 ---
 ## Install Dependencies
-npm install 
+```bash
+npm install
+``` 
 ---
 ## Run the Development Server
+```bash
 npm run dev
 App will be available at:
 👉 http://localhost:3000
+```
 ---
 
 
